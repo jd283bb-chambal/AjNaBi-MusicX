@@ -1,0 +1,4 @@
+pyrofork
+tgcrypto==1.2.5
+flask==2.3.0
+python-telegram-bot==20.7
