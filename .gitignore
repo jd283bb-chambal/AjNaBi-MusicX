@@ -1,0 +1,5 @@
+.venv/
+*.session
+.vscode/
+downloads/
+temp/
